@@ -460,8 +460,7 @@ EDGE_HOSTS = [
     h.strip()
     for h in os.environ.get(
         "EDGE_HOSTS",
-        "saas.072159.xyz:443,hzytjy.cn:443,ali.nonull.pp.ua:443,auto.dolby.dpdns.org:443,"
-        "cdn.cnno.de:443,saas.sin.fan:443,cf.777791.xyz:443,esm.run:443,hzytjy.cn:443,dango.co:443",
+        "visa.com:443,help.kolet.com:443,db-ip.com:443,cf.1o.ee:443,www.petronaftco.com:443,buyshoes.shop:443,salaryexpert.com:443,cf.yj250.bond:443,fictiv.com:443,journeys.com:443,syncfusion.com:443,www.doiting.com:443,cf.3666888.xyz:443,lose.edu.eu.org:443,sunkist.com:443,registry.yarnpkg.com:443,neko.cloudflaree.eu.org:443,thebeat.gehealthcare.com:443,time.is:443,cloudflare-ip.mofashi.ltd:443,xiaoqi.de:443,wppaunz.com:443,s.ee:443,stonexbullion.com:443,form.assaabloy.com:443,cloudflare.tv:443,m.iyf.tv:443,funko.com:443,cf.qq.ms:443,skk.moe:443,aqua-aria.company:443,academy.mastercard.com:443,hlevakha.gov.ua:443,shabak.gov.il:443,images.chesscomfiles.com:443,dx.doi.org:443,a.pub.network:443,www.mlkj888.com:443,baota.us.kg:443,www.whatismyip.com:443,singapore.com:443,builtbybuffalo.com:443,www.chess.com:443,pure.coupert.com:443,hentaiverse.org:443,img.dexbug.com:443,scalacube.com:443"
     ).split(",")
     if h.strip()
 ]
